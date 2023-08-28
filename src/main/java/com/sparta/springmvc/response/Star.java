@@ -12,5 +12,5 @@ public class Star {
         this.age = age;
     }
 
-    public Star() {}
+    public Star() {} //기본생성자
 }
